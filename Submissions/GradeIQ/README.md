@@ -1,17 +1,15 @@
 # 📱 Application: GradeIQ
 
-### 🏆 TeachAthon 2025 Status: [Insert Placement]
+### 🏆 TeachAthon 2025 Status: 3rd place
 
 ---
 
 ## 👥 Project Contributors
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
+* **Matvii Yatsenko** | Contact: n/a
+* **Viktor Sharha** | Contact: n/a
 
 ## 🚀 Project Description
-[Insert a short description or abstract of the GradeIQ application here].
-
-*Note: The Synthetic Processes & Embodiment Labs (SPEL) is currently reviewing and curating the text assets for this submission in agreement with the submitters.*
+GradeIQ is a web-based AI-assisted marking platform that turns assignment mark schemes into editable rubrics, evaluates uploaded typed or handwritten PDF submissions against them, and generates criterion-level marks, feedback, and reasoning. Human markers then review and adjust the proposed grading before release.
 
 ## 📄 Original Submission Document
 The original submission document for GradeIQ can be found directly within this folder.
